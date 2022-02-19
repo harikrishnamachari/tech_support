@@ -1,4 +1,4 @@
-tenant_email = ['syed.rehan@nestaway.com']
+tenant_email = ['hari.krishnamachari@nestaway.com']
 booking_types = ['Bed']
 booking_ids = ["197227"]
 move_in_date = Date.parse('2022-03-07')
